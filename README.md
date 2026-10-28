@@ -84,6 +84,19 @@ The demonstrations illustrate specific documented workflows. Compatibility with 
 
 Real client data must be handled according to agreed confidentiality, retention, and security requirements.
 
+## Freelance Service
+
+My initial focus is Excel and CSV cleaning,
+validation, and structured data transformation.
+
+- [Service Overview and Proposed Packages](services/DATA_CLEANING_SERVICE.md)
+- [Client Requirements](services/CLIENT_INTAKE.md)
+- [Delivery and Verification Standard](services/DELIVERY_STANDARD.md)
+- [Simulated Acceptance Test](services/ACCEPTANCE_EXAMPLE.md)
+
+All advertised services are subject to scope,
+feasibility, and data-handling requirements.
+
 ## Contact
 
 For project inquiries, use my GitHub profile to find available contact information or open an appropriate discussion through an enabled repository channel.
