@@ -1,0 +1,11 @@
+{
+    "input_rows": 1000,
+    "accepted_rows": 871,
+    "flagged_rows": 129,
+    "duplicate_id_rows": 28,
+    "invalid_amount_rows": 27,
+    "negative_amount_rows": 30,
+    "invalid_email_rows": 25,
+    "invalid_date_rows": 19,
+    "missing_id_rows": 0
+}

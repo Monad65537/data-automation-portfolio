@@ -1,0 +1,130 @@
+customer_id,name,email,amount,order_date,source_row,rejection_reasons
+000002,Eve Smith,eve.smith2@example.com,299.34,2026-10-15,4,Duplicate customer ID
+000004,Bob Jones,bob.jones3@example.com,unknown,2026-10-15,5,Invalid amount
+000020,Charlie Smith,charlie.smith19@example.com,-50,2026-10-15,21,Negative amount
+000025,Bob Jones,bob.jones25@example.com,259.67,2026-10-15,27,Duplicate customer ID
+000032,Charlie Green,charlie.green31@example.com,-50,2026-10-15,33,Negative amount
+000033,Eve Jones,eve.jones32@example.com,-50,2026-10-15,34,Negative amount
+000036,Alice White,alice.white35@example.com,-50,2026-10-15,37,Negative amount
+000043,Diana Smith,diana.smith43@example.com,131.47,2026-10-15,45,Duplicate customer ID
+000048,Frank Green,frank.green47@example.com,114.98,not-a-date,49,Invalid date
+000060,Diana Smith,invalid-email,90.67,2026-10-15,61,Invalid or missing email
+000063,Bob Brown,bob.brown62@example.com,116.67,not-a-date,64,Invalid date
+000064,Alice Miller,invalid-email,163.67,2026-10-15,65,Invalid or missing email
+000066,Alice Jones,alice.jones65@example.com,unknown,2026-10-15,67,Invalid amount
+000068,Eve White,eve.white67@example.com,29.47,not-a-date,69,Invalid date
+000084,Alice Smith,alice.smith83@example.com,-50,2026-10-15,85,Negative amount
+000088,Eve White,eve.white87@example.com,-50,2026-10-15,89,Negative amount
+000094,Charlie Jones,charlie.jones94@example.com,395.81,2026-10-15,96,Duplicate customer ID
+000101,Eve Brown,eve.brown100@example.com,-50,2026-10-15,102,Negative amount
+000105,Diana White,invalid-email,103.14,2026-10-15,106,Invalid or missing email
+000109,Eve Brown,eve.brown108@example.com,-50,2026-10-15,110,Negative amount
+000118,Frank Miller,frank.miller117@example.com,unknown,2026-10-15,119,Invalid amount
+000122,Bob Jones,bob.jones122@example.com,331.47,2026-10-15,124,Duplicate customer ID
+000132,Frank Jones,frank.jones131@example.com,-50,2026-10-15,133,Negative amount
+000136,Charlie White,invalid-email,238.3,2026-10-15,137,Invalid or missing email
+000137,Diana White,diana.white136@example.com,473.57,not-a-date,138,Invalid date
+000144,Eve White,invalid-email,334.87,2026-10-15,145,Invalid or missing email
+000148,Alice Brown,alice.brown148@example.com,119.87,2026-10-15,150,Duplicate customer ID
+000150,Alice Jones,alice.jones149@example.com,unknown,2026-10-15,151,Invalid amount
+000151,Bob Jones,bob.jones150@example.com,unknown,2026-10-15,152,Invalid amount
+000154,Bob Brown,bob.brown153@example.com,-50,2026-10-15,155,Negative amount
+000184,Bob Brown,bob.brown183@example.com,-50,2026-10-15,185,Negative amount
+000187,Diana Brown,invalid-email,100.34,2026-10-15,188,Invalid or missing email
+000187,Alice Smith,alice.smith187@example.com,206.35,2026-10-15,189,Duplicate customer ID
+000195,Frank Jones,frank.jones194@example.com,unknown,2026-10-15,196,Invalid amount
+000196,Bob White,invalid-email,46.78,2026-10-15,197,Invalid or missing email
+000197,Frank White,frank.white196@example.com,-50,2026-10-15,198,Negative amount
+000206,Diana Green,invalid-email,49.42,2026-10-15,207,Invalid or missing email
+000207,Frank Brown,frank.brown206@example.com,unknown,2026-10-15,208,Invalid amount
+000208,Frank White,frank.white207@example.com,-50,2026-10-15,209,Negative amount
+000219,Diana Miller,diana.miller218@example.com,-50,2026-10-15,220,Negative amount
+000227,Diana Jones,diana.jones226@example.com,unknown,2026-10-15,228,Invalid amount
+000227,Eve White,eve.white227@example.com,375.68,2026-10-15,229,Duplicate customer ID
+000237,Frank Jones,frank.jones236@example.com,252.71,not-a-date,238,Invalid date
+000249,Alice Smith,alice.smith248@example.com,-50,2026-10-15,250,Negative amount
+000253,Bob Green,invalid-email,457.29,2026-10-15,254,Invalid or missing email
+000258,Bob Green,invalid-email,428.13,2026-10-15,259,Invalid or missing email
+000264,Frank Miller,frank.miller264@example.com,343.62,2026-10-15,266,Duplicate customer ID
+000267,Alice White,alice.white266@example.com,-50,2026-10-15,268,Negative amount
+000288,Diana Jones,diana.jones287@example.com,-50,2026-10-15,289,Negative amount
+000311,Diana Smith,diana.smith310@example.com,398.62,not-a-date,312,Invalid date
+000316,Diana Smith,invalid-email,54.7,2026-10-15,317,Invalid or missing email
+000321,Charlie White,charlie.white320@example.com,163.1,not-a-date,322,Invalid date
+000328,Bob White,bob.white328@example.com,332.1,2026-10-15,330,Duplicate customer ID
+000332,Bob Jones,bob.jones332@example.com,379.67,2026-10-15,334,Duplicate customer ID
+000340,Bob Brown,invalid-email,151.83,2026-10-15,341,Invalid or missing email
+000344,Diana Smith,diana.smith343@example.com,-50,2026-10-15,345,Negative amount
+000346,Diana Brown,diana.brown345@example.com,-50,2026-10-15,347,Negative amount
+000348,Charlie Smith,invalid-email,223.99,2026-10-15,349,Invalid or missing email
+000351,Bob Smith,bob.smith350@example.com,260.14,not-a-date,352,Invalid date
+000353,Frank Jones,frank.jones352@example.com,unknown,2026-10-15,354,Invalid amount
+000358,Frank Brown,invalid-email,83.97,2026-10-15,359,Invalid or missing email
+000379,Frank Miller,invalid-email,457.1,2026-10-15,380,Invalid or missing email
+000398,Eve Jones,eve.jones397@example.com,unknown,2026-10-15,399,Invalid amount
+000405,Eve Smith,eve.smith404@example.com,unknown,2026-10-15,406,Invalid amount
+000417,Frank Smith,frank.smith416@example.com,unknown,2026-10-15,418,Invalid amount
+000432,Bob White,bob.white431@example.com,-50,2026-10-15,433,Negative amount
+000441,Charlie Green,charlie.green440@example.com,unknown,2026-10-15,442,Invalid amount
+000462,Diana White,diana.white462@example.com,456.25,2026-10-15,464,Duplicate customer ID
+000476,Charlie Green,invalid-email,45.76,2026-10-15,477,Invalid or missing email
+000481,Charlie Green,charlie.green480@example.com,-50,2026-10-15,482,Negative amount
+000485,Diana Brown,invalid-email,253.71,2026-10-15,486,Invalid or missing email
+000492,Charlie White,charlie.white492@example.com,343.4,2026-10-15,494,Duplicate customer ID
+000496,Eve Smith,eve.smith495@example.com,-50,2026-10-15,497,Negative amount
+000502,Alice Brown,invalid-email,172.31,2026-10-15,503,Invalid or missing email
+000507,Alice White,alice.white507@example.com,474.62,2026-10-15,509,Duplicate customer ID
+000531,Charlie Brown,charlie.brown531@example.com,149.85,2026-10-15,533,Duplicate customer ID
+000536,Frank Brown,frank.brown535@example.com,439.6,not-a-date,537,Invalid date
+000559,Eve Jones,eve.jones558@example.com,-50,2026-10-15,560,Negative amount
+000565,Alice Miller,invalid-email,116.77,2026-10-15,566,Invalid or missing email
+000572,Bob White,bob.white571@example.com,unknown,2026-10-15,573,Invalid amount
+000576,Bob Miller,invalid-email,385.09,2026-10-15,577,Invalid or missing email
+000577,Eve Smith,eve.smith576@example.com,127.93,not-a-date,578,Invalid date
+000598,Charlie Brown,charlie.brown597@example.com,unknown,2026-10-15,599,Invalid amount
+000605,Bob Brown,bob.brown604@example.com,unknown,2026-10-15,606,Invalid amount
+000615,Alice Miller,alice.miller614@example.com,unknown,2026-10-15,616,Invalid amount
+000617,Bob White,bob.white616@example.com,233.44,not-a-date,618,Invalid date
+000618,Diana Miller,diana.miller617@example.com,249.05,not-a-date,619,Invalid date
+000631,Frank White,frank.white631@example.com,243.0,2026-10-15,633,Duplicate customer ID
+000648,Diana Brown,diana.brown647@example.com,-50,2026-10-15,649,Negative amount
+000648,Diana Brown,diana.brown648@example.com,383.06,2026-10-15,650,Duplicate customer ID
+000681,Charlie Green,charlie.green680@example.com,unknown,2026-10-15,682,Invalid amount
+000688,Eve Green,invalid-email,180.67,2026-10-15,689,Invalid or missing email
+000705,Charlie Smith,charlie.smith704@example.com,-50,2026-10-15,706,Negative amount
+000714,Diana Jones,diana.jones713@example.com,unknown,2026-10-15,715,Invalid amount
+000721,Bob Brown,bob.brown720@example.com,-50,2026-10-15,722,Negative amount
+000743,Charlie Miller,invalid-email,383.5,2026-10-15,744,Invalid or missing email
+000751,Alice Jones,alice.jones750@example.com,unknown,2026-10-15,752,Invalid amount
+000752,Eve Miller,eve.miller751@example.com,-50,2026-10-15,753,Negative amount
+000759,Diana Jones,diana.jones759@example.com,52.48,2026-10-15,761,Duplicate customer ID
+000766,Frank Green,frank.green765@example.com,unknown,2026-10-15,767,Invalid amount
+000771,Diana Smith,diana.smith770@example.com,-50,2026-10-15,772,Negative amount
+000774,Diana Green,diana.green773@example.com,353.89,not-a-date,775,Invalid date
+000774,Eve White,eve.white774@example.com,84.81,2026-10-15,776,Duplicate customer ID
+000780,Bob Smith,bob.smith779@example.com,463.07,not-a-date,781,Invalid date
+000791,Alice White,alice.white790@example.com,340.32,not-a-date,792,Invalid date
+000791,Alice Smith,alice.smith791@example.com,430.76,2026-10-15,793,Duplicate customer ID
+000796,Frank Brown,frank.brown795@example.com,-50,2026-10-15,797,Negative amount
+000797,Alice White,alice.white796@example.com,unknown,2026-10-15,798,Invalid amount
+000798,Eve Smith,invalid-email,477.5,2026-10-15,799,Invalid or missing email
+000809,Bob Miller,bob.miller808@example.com,unknown,2026-10-15,810,Invalid amount
+000825,Diana Smith,diana.smith825@example.com,403.91,2026-10-15,827,Duplicate customer ID
+000843,Charlie Green,charlie.green842@example.com,142.51,not-a-date,844,Invalid date
+000870,Eve Jones,invalid-email,323.43,2026-10-15,871,Invalid or missing email
+000874,Alice Brown,alice.brown874@example.com,135.76,2026-10-15,876,Duplicate customer ID
+000879,Diana Smith,diana.smith879@example.com,401.61,2026-10-15,881,Duplicate customer ID
+000881,Charlie Brown,charlie.brown880@example.com,unknown,2026-10-15,882,Invalid amount
+000896,Diana Brown,invalid-email,101.43,2026-10-15,897,Invalid or missing email
+000913,Diana Smith,diana.smith912@example.com,213.08,not-a-date,914,Invalid date
+000928,Alice White,alice.white927@example.com,397.83,not-a-date,929,Invalid date
+000936,Charlie Miller,charlie.miller936@example.com,417.13,2026-10-15,938,Duplicate customer ID
+000939,Charlie Miller,charlie.miller939@example.com,210.66,2026-10-15,941,Duplicate customer ID
+000946,Eve Green,eve.green945@example.com,-50,2026-10-15,947,Negative amount
+000959,Frank White,frank.white958@example.com,unknown,2026-10-15,960,Invalid amount
+000965,Eve White,eve.white964@example.com,unknown,2026-10-15,966,Invalid amount
+000988,Frank Smith,frank.smith988@example.com,330.25,2026-10-15,990,Duplicate customer ID
+000994,Bob Green,bob.green993@example.com,417.02,not-a-date,995,Invalid date
+000995,Alice Brown,alice.brown994@example.com,unknown,2026-10-15,996,Invalid amount
+000998,Diana Brown,diana.brown998@example.com,124.91,2026-10-15,1000,Duplicate customer ID
+000998,Alice White,alice.white999@example.com,337.82,2026-10-15,1001,Duplicate customer ID
