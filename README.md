@@ -54,6 +54,38 @@ All examples use synthetic data. They represent technical demonstrations rather 
 
 [View the Sales Reporting Case Study](case-studies/02-sales-reporting/CASE_STUDY.md)
 
+## Additional Verified Case Studies
+
+The following synthetic demonstrations document validated processing workflows and generated deliverables.
+
+### Customer Data Cleaning — Five-Record Demonstration
+
+- 5 input records
+- 2 accepted records
+- 3 flagged records with documented reasons
+- Preserved leading-zero customer identifiers
+
+[View the data-cleaning case study](case-studies/data-cleaning.md)
+
+### Spreadsheet Consolidation — SheetMerge
+
+- 33 records across 11 CSV/XLSX files
+- 16 accepted, 14 rejected, and 3 redundant records
+- Currency-specific monetary reconciliation
+- Structured exclusion and audit outputs
+
+[View the spreadsheet-consolidation case study](case-studies/spreadsheet-merging.md)
+
+### Automated Sales Reporting — Transaction and Product Modes
+
+- Transaction report: 7 transactions, USD 435.75 net revenue
+- Product report: 5 product lines across 4 transactions, USD 195.00 net revenue
+- Generated Excel workbooks with reporting and data-quality worksheets
+
+[View the sales-reporting case study](case-studies/sales-reporting.md)
+
+All datasets are synthetic. These examples demonstrate verified technical workflows, not previous paid client engagements.
+
 ## Software Projects
 
 | Project | Purpose | Repository |

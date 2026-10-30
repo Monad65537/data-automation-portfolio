@@ -26,6 +26,36 @@ A transaction-level sales demonstration generated using SalesReport Auto.
 
 [View case study](02-sales-reporting/CASE_STUDY.md)
 
+## Additional Verified Case Studies
+
+These demonstrations use synthetic datasets and document verified processing results.
+
+### Customer Data Cleaning — Five-Record Demonstration
+
+- 5 input records: 2 accepted and 3 flagged
+- Leading-zero customer IDs preserved
+- Validation exceptions documented
+
+[View the data-cleaning case study](data-cleaning.md)
+
+### Spreadsheet Consolidation — SheetMerge
+
+- 33 records from 11 CSV/XLSX files
+- 16 accepted, 14 rejected, and 3 redundant
+- Currency-specific reconciliation and audit outputs
+
+[View the spreadsheet-merging case study](spreadsheet-merging.md)
+
+### Automated Sales Reporting
+
+- Transaction report: USD 435.75 net revenue
+- Product report: USD 195.00 net revenue
+- Excel reporting with data-quality information
+
+[View the sales-reporting case study](sales-reporting.md)
+
+All examples are synthetic technical demonstrations, not previous paid client engagements.
+
 ## Source Projects
 
 - [DataClean Pro](https://github.com/Monad65537/freelancing-data-toolkit)
@@ -34,6 +64,6 @@ A transaction-level sales demonstration generated using SalesReport Auto.
 
 ## Verification
 
-Both case studies include synthetic inputs and program-generated outputs. The source repositories contain implementation details, automated tests, and usage instructions.
+All listed case studies use synthetic data and document their demonstrated results with generated outputs.
 
 Results describe the demonstrated datasets and should not be generalized to arbitrary client data.
