@@ -1,0 +1,4 @@
+customer_id,name,email,amount,order_date,source_row,rejection_reasons
+000102,Eve Brown,eve@example.com,90.00,2026-10-15,4,Duplicate customer ID
+000104,Diana White,diana@example.com,unknown,2026-10-15,5,Invalid amount
+000105,Frank Green,frank@example.com,-20,2026-10-15,6,Negative amount

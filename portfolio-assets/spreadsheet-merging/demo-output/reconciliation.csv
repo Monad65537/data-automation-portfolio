@@ -1,0 +1,4 @@
+"currency","input_count","accepted_count","rejected_count","redundant_count","input_known_amount","accepted_known_amount","rejected_known_amount","redundant_known_amount","input_unquantified_count","accepted_unquantified_count","rejected_unquantified_count","redundant_unquantified_count","known_amounts_balanced","monetary_complete"
+"JPY","9","4","4","1","7389","1290","5099","1000","1","0","1","0","true","false"
+"PLN","12","5","6","1","583.35","220.35","163.00","200.00","3","0","3","0","true","false"
+"USD","12","7","4","1","356.55","141.45","115.00","100.10","1","0","1","0","true","false"
